@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Eventos Diarios",
+  "description": "Sistema de gestión operativa para registro de eventos de jornada laboral, control de accesos RBAC y métricas de rendimiento y uso de tiempo diario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
